@@ -1,6 +1,6 @@
 # Guide: Create a Pull Request on GitHub (New Repo Workflow)
 
-This is is her to help you will create your **own repository**, add your some content on a feature branch, and open a **Pull Request (PR)** to request feedback from classmates.
+This is is here to help you will create your **own repository**, add your some content on a feature branch, and open a **Pull Request (PR)** to request feedback from classmates.
 
 ---
 
